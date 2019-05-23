@@ -4,5 +4,7 @@
 * [FAQ](faq.md)
 * [APIs](apis/README.md)
   * [Inner Post](apis/untitled.md)
-* [Changelog](changelog.md)
+  * [Api Test Import](apis/api-test-md.md)
+* [Changelog](changelog/README.md)
+  * [Untitled](changelog/untitled.md)
 
