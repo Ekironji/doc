@@ -1,8 +1,8 @@
-# Initial page
+# Welcome
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+**Edgehog** makes it easy to deploy code to fleets of connected devices, bringing the power of Linux containers to the edge. We've optimized the cloud paradigm for remote devices, taking familiar container workflows and custom building for low overhead, high reliability, and out-of-the-box support across a wide variety of devices. With a few simple commands, you can monitor, manage, and update your fleet from anywhere.
 
 ```
 $ give me super-powers
